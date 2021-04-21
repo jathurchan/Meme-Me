@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SentMemesVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
