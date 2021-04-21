@@ -5,4 +5,13 @@
 //  Created by Jathurchan Selvakumar on 14/02/2021.
 //
 
-import Foundation
+import UIKit
+
+class MemeTableCell: UITableViewCell {
+    
+    // MARK: Outlets
+    @IBOutlet weak var memeTableImageView: UIImageView!
+    @IBOutlet weak var memeTableLabel: UILabel!
+    
+    
+}
